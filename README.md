@@ -18,7 +18,7 @@ The project explores **consumer behavior, competitive landscape, survey insights
   Includes **survey design**, **focus group insights**, and **direct responses** for all 7 research questions.
 
 - 📄 [`Part 4 - Survey Analysis`](https://github.com/mrinalmishra31/Uniqlo/blob/main/Part%204%20-%20Survey%20Analysis.pdf)  
-  Detailed analysis with visuals and cross-tabulations of consumer responses, segmented by **age, lifestyle, income, and platform preferences** using the SPSS Analytics tool.
+  Detailed analysis with visuals and cross-tabulations of consumer responses, segmented by **age, lifestyle, income, and platform preferences** using IBM SPSS Statistics.
 
 - 📊 `Part 3b - Survey Results.xls` (Not previewable online)  
   Contains raw survey responses that support the analysis provided in Parts 3 and 4.
