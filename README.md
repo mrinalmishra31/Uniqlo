@@ -12,7 +12,7 @@ The project explores **consumer behavior, competitive landscape, survey insights
   Lays the foundation of the project by identifying **7 core research questions** around consumer interest, pricing, preferences, unmet needs, and optimal marketing channels.
 
 - 📄 [`Part 2 - Uniqlo Secondary Research`](https://github.com/mrinalmishra31/Uniqlo/blob/main/Part%202%20-%20Uniqlo%20Secondary%20Research.pdf)  
-  Provides **industry context**, competitor benchmarking (StitchFix, StyleHint), and **platform research** through Statista, SimilarWeb, and Google Trends.
+  Provides **industry context**, competitor benchmarking (StitchFix, StyleHint), and **platform research** through Statista, SimilarWeb, MRI-Simmons, and Google Trends.
 
 - 📄 [`Part 3 - Primary Research`](https://github.com/mrinalmishra31/Uniqlo/blob/main/Part%203%20-%20Primary%20Research.pdf)  
   Includes **survey design**, **focus group insights**, and **direct responses** for all 7 research questions.
