@@ -67,7 +67,7 @@ The project explores **consumer behavior, competitive landscape, survey insights
 
 ## 📢 License
 
-This project is a part of academic coursework and is for educational reference only.
+This project is part of an academic coursework and is provided for educational reference only.
 
 ---
 
