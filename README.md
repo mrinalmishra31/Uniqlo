@@ -71,4 +71,4 @@ This project is part of an academic coursework and is provided for educational r
 
 ---
 
-© 2024 | Created by Mrinal Mishra
+© 2025 | Created by Mrinal Mishra
